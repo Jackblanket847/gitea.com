@@ -51,7 +51,7 @@ require (
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-ap/activitypub v0.0.0-20250409143848-7113328b1f3d
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
-	github.com/go-chi/chi/v5 v5.2.1
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-chi/cors v1.2.1
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-enry/go-enry/v2 v2.9.2
@@ -214,7 +214,7 @@ require (
 	github.com/go-openapi/strfmt v0.23.0 // indirect
 	github.com/go-openapi/swag v0.23.1 // indirect
 	github.com/go-openapi/validate v0.24.0 // indirect
-	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
+	github.com/go-viper/mapstructure/v2 v2.3.0 // indirect
 	github.com/go-webauthn/x v0.1.20 // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
